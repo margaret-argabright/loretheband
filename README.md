@@ -1,3 +1,25 @@
+<!-----------------------------------------------------------------------
+Theme [02]: Midnight Rose
+Made by glenthemes
+ 
+Initial release: 2015/08/10
+Revamp date: 2016/12/14
+Last updated: 2022/10/22
+ 
+TERMS OF USE:
+1) Do not remove the theme credit.
+2) Do not repost/redistribute my themes.
+3) Do not take parts of the code and use it as your own.
+4) Do not use my themes as a base code.
+5) Do not mix my themes together.
+ 
+To change the icons (icon font):
+1. Go to this site: linearicons.com/free
+2. Choose an icon you want
+3. Copy the icon text
+4. Paste it in the "Link 1 icon" text field
+------------------------------------------------------------------------>
+ 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en">
  
